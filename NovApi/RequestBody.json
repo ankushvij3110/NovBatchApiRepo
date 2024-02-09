@@ -1,0 +1,22 @@
+{
+    "id": "e36999098909090",
+    "firstName": "Kunal",
+    "lastName": "Vig",
+    "designation": "Sr. TeamMember",
+    "Address": [
+        {
+          "Type": "Primary Address",
+          "Area Code": "12345656",
+          "Landmark.": "Church",
+          "house no.": "ABC",
+          "ward no.": "123"
+        },
+        {
+          "Type": "Secondary Address",
+          "Area Code": "123456dfdgdg",
+          "Landmark.": "Churchhhh",
+          "house no.": "ABCdfd",
+          "ward no.": "12354454"
+        }
+      ]
+}
